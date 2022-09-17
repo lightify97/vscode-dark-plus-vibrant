@@ -1,0 +1,21 @@
+{
+  "name": "vibrant-dark-plus",
+  "displayName": "vibrant-dark-plus",
+  "description": "A port of default VS Code dark-plus theme with vibrant colors and some tweaks",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark+ Vibrant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark+ Vibrant-color-theme.json"
+      }
+    ]
+  }
+}
